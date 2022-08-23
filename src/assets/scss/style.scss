@@ -4,3 +4,9 @@
 @import './abstracts/mixins';
 @import './components/sections/main';
 @import './components/sections/card';
+
+.container {
+    max-width: 1740px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
